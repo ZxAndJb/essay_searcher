@@ -1,2 +1,1 @@
-
-![Agent Workflow](./agent_workflow.png)
+![Agent Workflow](agent_workflow.jpg)
